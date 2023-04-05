@@ -1,0 +1,10 @@
+.type-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.quantity {
+  font-family: sans-serif;
+  font-size: 16px;
+}
